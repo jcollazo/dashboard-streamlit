@@ -1,1 +1,1 @@
-from navigation import calculator, landing, dashboard_yf
+from navigation import landing, chart, dashboard_yf
