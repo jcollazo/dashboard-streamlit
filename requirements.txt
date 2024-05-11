@@ -4,3 +4,5 @@ numpy==1.25.2
 yfinance==0.2.28
 plotly==5.16.1
 streamlit-lightweight-charts
+numpy
+json

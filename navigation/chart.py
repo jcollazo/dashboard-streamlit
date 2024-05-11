@@ -4,8 +4,7 @@ from streamlit_lightweight_charts import renderLightweightCharts
 import json
 import numpy as np
 import yfinance as yf
-import pandas as pd
-import pandas_ta as ta
+
 
 COLOR_BULL = 'rgba(38,166,154,0.9)' # #26a69a
 COLOR_BEAR = 'rgba(239,83,80,0.9)'  # #ef5350
